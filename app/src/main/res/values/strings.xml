@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">ArduinoQuiz</string>
+
+    <string name="question1">1.	What is the Microcontroller used in Arduino UNO?</string>
+    <string name="question1_option1">ATmega328p</string>
+    <string name="question1_option2">ATmega2560</string>
+    <string name="question1_option3">ATmega32114</string>
+    <string name="question1_option4">AT91SAM3x8E</string>
+
+    <string name="question2">2.	What does p refer to in ATmega328p?</string>
+    <string name="question2_option1">Production</string>
+    <string name="question2_option2">Pico-Power</string>
+    <string name="question2_option3">Power-Pico</string>
+    <string name="question2_option4">Programmable on chip</string>
+
+
+    <string name="question3">3. Arduino shields are also known as </string>
+
+
+    <string name="question4">4.	Which is the software or a programming language used for controlling of Arduino?</string>
+    <string name="question4_option1">Assembly Language</string>
+    <string name="question4_option2">C Languages</string>
+    <string name="question4_option3">JAVA</string>
+    <string name="question4_option4">Any Language</string>
+
+
+    <string name="question5">5. A program written with the IDE for Arduino is called </string>
+
+
+    <string name="question6">6.	Arduino IDE consists of 2 functions. What are they?</string>
+    <string name="question6_option1">Build() </string>
+    <string name="question6_option2">setup()</string>
+    <string name="question6_option3">onCreate()</string>
+    <string name="question6_option4">loop()</string>
+
+
+    <string name="question7">7. How many digital pins are there in the UNO board??</string>
+    <string name="question7_option1">12 </string>
+    <string name="question7_option2">14</string>
+    <string name="question7_option3">16</string>
+    <string name="question7_option4">20</string>
+
+    <string name="question8">8.	What are pre built circuit boards that fit on top of an Android?</string>
+
+    <string name="question9"> 9. Do Arduino provides IDE Environment? </string>
+
+
+    <string name="question10">10. Who invented the Arduino?</string>
+    <string name="question10_option1">David Mellis</string>
+    <string name="question10_option2">Gianluka Martino</string>
+    <string name="question10_option3"> Massimo Banzi </string>
+    <string name="question10_option4">Fabio Violante</string>
+
+    <string name="submit_answers">Submit Answers</string>
+    <string name="welcome">Welcome</string>
+    <string name="instruction">Please Input Your Name </string>
+    <string name="beginQuiz">Start Quiz</string>
+    <string name="hint">Your name</string>
+    <string name="textOn">YES</string>
+    <string name="textOff">NO</string>
+    <string name="hint2"> Your Answer</string>
+    <string name="hint3">Hint: Tap the button to choose Option</string>
+    <string name="username">Username</string>
+
+
+</resources>

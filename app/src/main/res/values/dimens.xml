@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="forQuestions"> 18sp</dimen>
+    <dimen name="forOptions"> 14sp</dimen>
+    <dimen name="largeHeadings"> 36sp</dimen>
+    <dimen name="headings"> 24sp</dimen>
+    <dimen name="margins"> 8dp</dimen>
+    <dimen name="cardCornerRadius"> 8dp</dimen>
+</resources>
